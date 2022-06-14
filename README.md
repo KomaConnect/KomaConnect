@@ -2,9 +2,9 @@
 
 I'm currently trainning to become a Web Developer.
 
-You can reach me via KomaConnect on twitter.
+You can reach me via twitter "KomaConnect".
 
-I never giving up on my Dreams.
+I never give up on my Dreams.
 
 <!--
 **KomaConnect/KomaConnect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
