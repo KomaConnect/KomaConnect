@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm currently trainning to become a Web Developer.
-
-You can reach me via twitter "KomaConnect".
+Insterested in DATA ENGINEERING, CLOUD COMPUTING AND CYBERSECURITY.
 
 I never give up on my Dreams.
 
